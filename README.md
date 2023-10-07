@@ -1,16 +1,13 @@
-### Hi there 👋
+ Hi there 👋
+- 🌕 I am Hayrun Nisa. I am a Software engineering student at Sakarya University. I want to improve myself in syber security and backend development. I am very curious when it comes to new subject about my area .
 
-<!--
-**HAYRUNNNISA/HAYRUNNNISA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I have learned C++ ,C# and Html-CSS at basic level . I have made some smiple projects but from now on I will share my projects from
+here.
 
-Here are some ideas to get you started:
+- 🌿 I love science and mathematic. Discovering various things about world and people with science always attracts me. Mathematic has always been part of my life and always wiil be.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 I’m currently learning Java , .Net core and SQL and my new aim is making new project while using them.
+
+
+- 📫 How to reach me: https://instagram.com/hay_celik?igshid=NGVhN2U2NjQ0Yg==
